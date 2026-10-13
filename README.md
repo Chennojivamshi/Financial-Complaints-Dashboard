@@ -101,6 +101,8 @@ Aspiring Data Analyst | Power BI | SQL | Excel | Python
 - GitHub: https://github.com/Chennojivamshi
 - LinkedIn: https://linkedin.com/in/chennoji-vamshi
 
+![Financial Complaints Dashboard](./dashboard-preview.png.png)
+
 ---
 
 *This project is intended for learning and portfolio demonstration. Findings and business conclusions should be based on the actual dashboard results and validated dataset.*
